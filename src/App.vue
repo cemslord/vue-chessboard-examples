@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>Simple Chessboard with legal moves</h1>
+    <h1>Hello sSimple Chessboard with legal moves</h1>
     <chessboard/>
 
     <h1>Simple Chessboard with free moves</h1>
